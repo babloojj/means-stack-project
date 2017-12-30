@@ -1,6 +1,6 @@
 "use strict";
 angular.module('landing', []);
-angular.module('airbnb', [
+angular.module('myapp', [
 	'ui.router',
 	'landing'
 	])
